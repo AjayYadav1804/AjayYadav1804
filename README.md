@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer in Test (SDET)</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ajayyadav18/" target="blank"><img align="center" src="https://img.shields.io/badge/-Thangaraj%20K-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajayyadav18/" alt="ajayyadav18" /></a>
+<a href="https://www.linkedin.com/in/ajayyadav18/" target="blank"><img align="center" src="https://img.shields.io/badge/-Ajay%20Yadav%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajayyadav18/" alt="ajayyadav18" /></a>
 <a href="https://github.com/AjayYadav1804" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white&link=https://github.com/AjayYadav1804" alt="AjayYadav1804" /></a>
 </p>
 
